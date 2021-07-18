@@ -19,7 +19,7 @@ section {
   transform: translate(-50%, -50%);
   width: 65%;
   height: 26rem;
-  /* background-color: #e3fdfd; */
+   background-color: #e3fdfd; 
 }
 
 .lineargradient {
@@ -129,7 +129,7 @@ section {
   .lineargradient {
     background-color: #aa96da;
     width: 100%;
-    height: auto;
+    height: 100%;
   }
   .form__heading-h2 {
     font-size: 1.6rem;
